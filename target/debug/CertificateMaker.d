@@ -1,0 +1,1 @@
+C:\Programming\CertificateMakerRust\target\debug\CertificateMaker.exe: C:\Programming\CertificateMakerRust\src\analysis.rs C:\Programming\CertificateMakerRust\src\editpng.rs C:\Programming\CertificateMakerRust\src\main.rs
