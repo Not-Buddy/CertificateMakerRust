@@ -1,1 +1,1 @@
-/home/ubuntu/Programming/CertificateMakerRust/CertificateMaker/target/debug/CertificateMaker: /home/ubuntu/Programming/CertificateMakerRust/CertificateMaker/src/main.rs
+C:\Programming\CertificateMakerRust\CertificateMaker\target\debug\CertificateMaker.exe: C:\Programming\CertificateMakerRust\CertificateMaker\assets\DejaVuSans.ttf C:\Programming\CertificateMakerRust\CertificateMaker\src\analysis.rs C:\Programming\CertificateMakerRust\CertificateMaker\src\editpng.rs C:\Programming\CertificateMakerRust\CertificateMaker\src\main.rs

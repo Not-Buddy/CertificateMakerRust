@@ -1,0 +1,10 @@
+C:\Programming\CertificateMakerRust\CertificateMaker\target\debug\deps\libowned_ttf_parser-bf6aba553f45f18d.rmeta: C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Programming\CertificateMakerRust\CertificateMaker\target\debug\deps\libowned_ttf_parser-bf6aba553f45f18d.rlib: C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Programming\CertificateMakerRust\CertificateMaker\target\debug\deps\owned_ttf_parser-bf6aba553f45f18d.d: C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\lib.rs:
+C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\convert.rs:
+C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\owned.rs:
+C:\Users\kinge\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.15.2\src\preparse.rs:
